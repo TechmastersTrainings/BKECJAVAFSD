@@ -123,3 +123,11 @@ footer {
 .form-box button:hover {
     background-color: #555;
 }
+.form-box textarea{
+    width: 100%;
+    padding:10px;
+    border-radius: 4px;
+    resize: vertical;
+    border: 1px solid #ccc;
+    margin-bottom: 15px;
+}
